@@ -1,6 +1,8 @@
 # DC-HEROES
 TP. DC-HEROES
 
+<img src="C:\Users\casa\Desktop\formar martin\codigo full\DH- HEROES\public\img\collageHeroes.jpg" alt="Heroes de la Programacion"/>
+
 En este proyecto se muestran Biografias de algunos de los Referentes mas importantes de la Historia de la programación.
 Entre ellos :
 
